@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+#read this, too
